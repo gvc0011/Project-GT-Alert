@@ -1,4 +1,14 @@
 <HTML>
 
 <TABLE>
-<TR> <IMG SRC="4GIRLS.JPG"> </TR>
+<TD>
+<TR> 
+<IMG SRC="4GIRLS.JPG">
+</TD>
+
+<TD>
+<TABLE>
+<TR> colspan=2 </TR>
+
+</TR>
+
